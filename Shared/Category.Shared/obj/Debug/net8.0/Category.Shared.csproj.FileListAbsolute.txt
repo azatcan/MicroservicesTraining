@@ -1,0 +1,11 @@
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\bin\Debug\net8.0\Category.Shared.deps.json
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\bin\Debug\net8.0\Category.Shared.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\bin\Debug\net8.0\Category.Shared.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\Category.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\Category.Shared.AssemblyInfoInputs.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\Category.Shared.AssemblyInfo.cs
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\Category.Shared.csproj.CoreCompileInputs.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\Category.Shared.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\refint\Category.Shared.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\Category.Shared.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\ref\Category.Shared.dll

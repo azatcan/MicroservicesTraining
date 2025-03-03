@@ -1,0 +1,17 @@
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\CatalogService.Application.csproj.AssemblyReference.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\CatalogService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\CatalogService.Application.AssemblyInfoInputs.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\CatalogService.Application.AssemblyInfo.cs
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\CatalogService.Application.csproj.CoreCompileInputs.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\bin\Debug\net8.0\CatalogService.Application.deps.json
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\bin\Debug\net8.0\CatalogService.Application.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\bin\Debug\net8.0\CatalogService.Application.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\bin\Debug\net8.0\CatalogService.Domain.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\bin\Debug\net8.0\CatalogService.Domain.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\CatalogS.7E1997CE.Up2Date
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\CatalogService.Application.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\refint\CatalogService.Application.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\CatalogService.Application.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\ref\CatalogService.Application.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\bin\Debug\net8.0\CategoryService.Shared.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\bin\Debug\net8.0\CategoryService.Shared.pdb

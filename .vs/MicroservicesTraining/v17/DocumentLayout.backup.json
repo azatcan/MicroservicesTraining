@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56416D3B-6A55-414D-A4DE-AF80CFD47877}|src\\Services\\CatalogServices\\CatalogServices.Api\\CatalogServices.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\catalogservices\\catalogservices.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56416D3B-6A55-414D-A4DE-AF80CFD47877}|src\\Services\\CatalogServices\\CatalogServices.Api\\CatalogServices.Api.csproj|solutionrelative:src\\services\\catalogservices\\catalogservices.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD6B47-57BC-4680-B908-59F52A8B3F7E}|Shared\\Category.Shared\\CategoryService.Shared.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\shared\\category.shared\\controllerbases\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD6B47-57BC-4680-B908-59F52A8B3F7E}|Shared\\Category.Shared\\CategoryService.Shared.csproj|solutionrelative:shared\\category.shared\\controllerbases\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56416D3B-6A55-414D-A4DE-AF80CFD47877}|src\\Services\\CatalogServices\\CatalogServices.Api\\CatalogServices.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\catalogservices\\catalogservices.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56416D3B-6A55-414D-A4DE-AF80CFD47877}|src\\Services\\CatalogServices\\CatalogServices.Api\\CatalogServices.Api.csproj|solutionrelative:src\\services\\catalogservices\\catalogservices.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE1C74E-5152-4A73-BE00-5BE31FDAF50C}|src\\Services\\CatalogServices\\CatalogService.Application\\CatalogService.Application.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\catalogservices\\catalogservice.application\\services\\concrete\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE1C74E-5152-4A73-BE00-5BE31FDAF50C}|src\\Services\\CatalogServices\\CatalogService.Application\\CatalogService.Application.csproj|solutionrelative:src\\services\\catalogservices\\catalogservice.application\\services\\concrete\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE1C74E-5152-4A73-BE00-5BE31FDAF50C}|src\\Services\\CatalogServices\\CatalogService.Application\\CatalogService.Application.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\catalogservices\\catalogservice.application\\services\\abstract\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE1C74E-5152-4A73-BE00-5BE31FDAF50C}|src\\Services\\CatalogServices\\CatalogService.Application\\CatalogService.Application.csproj|solutionrelative:src\\services\\catalogservices\\catalogservice.application\\services\\abstract\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE1C74E-5152-4A73-BE00-5BE31FDAF50C}|src\\Services\\CatalogServices\\CatalogService.Application\\CatalogService.Application.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\catalogservices\\catalogservice.application\\services\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE1C74E-5152-4A73-BE00-5BE31FDAF50C}|src\\Services\\CatalogServices\\CatalogService.Application\\CatalogService.Application.csproj|solutionrelative:src\\services\\catalogservices\\catalogservice.application\\services\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56416D3B-6A55-414D-A4DE-AF80CFD47877}|src\\Services\\CatalogServices\\CatalogServices.Api\\CatalogServices.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\catalogservices\\catalogservices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56416D3B-6A55-414D-A4DE-AF80CFD47877}|src\\Services\\CatalogServices\\CatalogServices.Api\\CatalogServices.Api.csproj|solutionrelative:src\\services\\catalogservices\\catalogservices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE1C74E-5152-4A73-BE00-5BE31FDAF50C}|src\\Services\\CatalogServices\\CatalogService.Application\\CatalogService.Application.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\catalogservices\\catalogservice.application\\services\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE1C74E-5152-4A73-BE00-5BE31FDAF50C}|src\\Services\\CatalogServices\\CatalogService.Application\\CatalogService.Application.csproj|solutionrelative:src\\services\\catalogservices\\catalogservice.application\\services\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Shared\\Category.Shared\\ControllerBases\\CustomBaseController.cs",
+              "RelativeDocumentMoniker": "Shared\\Category.Shared\\ControllerBases\\CustomBaseController.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Shared\\Category.Shared\\ControllerBases\\CustomBaseController.cs",
+              "RelativeToolTip": "Shared\\Category.Shared\\ControllerBases\\CustomBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:22:45.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogServices.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\CatalogServices\\CatalogServices.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogServices.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "src\\Services\\CatalogServices\\CatalogServices.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:22:25.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogServices.Api\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\CatalogServices\\CatalogServices.Api\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogServices.Api\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "src\\Services\\CatalogServices\\CatalogServices.Api\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:03:30.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Concrete\\CategoryManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:46:53.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Abstract\\ICourseService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Abstract\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Abstract\\ICourseService.cs",
+              "RelativeToolTip": "src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Abstract\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:22:15.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Concrete\\CourseManager.cs",
+              "RelativeDocumentMoniker": "src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Concrete\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Concrete\\CourseManager.cs",
+              "RelativeToolTip": "src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Concrete\\CourseManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:17:21.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "src\\Services\\CatalogServices\\CatalogService.Application\\Services\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:11:55.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogServices.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\CatalogServices\\CatalogServices.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogServices.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\CatalogServices\\CatalogServices.Api\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:11:08.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

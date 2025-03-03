@@ -1,0 +1,12 @@
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\bin\Debug\net8.0\CatalogService.Domain.deps.json
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\bin\Debug\net8.0\CatalogService.Domain.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\bin\Debug\net8.0\CatalogService.Domain.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\CatalogService.Domain.csproj.AssemblyReference.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\CatalogService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\CatalogService.Domain.AssemblyInfoInputs.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\CatalogService.Domain.AssemblyInfo.cs
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\CatalogService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\CatalogService.Domain.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\refint\CatalogService.Domain.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\CatalogService.Domain.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\ref\CatalogService.Domain.dll
