@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEE978F-0323-4E60-9696-48CCB140E4D1}|src\\Services\\IdentityServerService\\IdentityServerService.Api\\IdentityServerService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\identityserverservice\\identityserverservice.api\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEE978F-0323-4E60-9696-48CCB140E4D1}|src\\Services\\IdentityServerService\\IdentityServerService.Api\\IdentityServerService.Api.csproj|solutionrelative:src\\services\\identityserverservice\\identityserverservice.api\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEE978F-0323-4E60-9696-48CCB140E4D1}|src\\Services\\IdentityServerService\\IdentityServerService.Api\\IdentityServerService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\identityserverservice\\identityserverservice.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEE978F-0323-4E60-9696-48CCB140E4D1}|src\\Services\\IdentityServerService\\IdentityServerService.Api\\IdentityServerService.Api.csproj|solutionrelative:src\\services\\identityserverservice\\identityserverservice.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
+              "RelativeToolTip": "src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:47:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\IdentityServerService\\IdentityServerService.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityServerService\\IdentityServerService.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\IdentityServerService\\IdentityServerService.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\Services\\IdentityServerService\\IdentityServerService.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:40:06.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

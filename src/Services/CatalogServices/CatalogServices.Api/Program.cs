@@ -1,6 +1,8 @@
 using CatalogService.Application.Mappings;
 using CatalogService.Application.Options;
 using CatalogService.Infrastructure;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Mvc.Authorization;
 
 namespace CatalogServices.Api
 {
@@ -12,13 +14,23 @@ namespace CatalogServices.Api
 
             // Add services to the container.
 
-            builder.Services.AddControllers();
+            builder.Services.AddControllers(opt =>
+            {
+                opt.Filters.Add(new AuthorizeFilter());
+            });
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.Configure<DatabaseOption>(builder.Configuration.GetSection("DatabaseOptions"));
             builder.Services.AddRegister(builder.Configuration);
             builder.Services.AddAutoMapper(typeof(GeneralMapping));
+
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
+            {
+                opt.Authority = builder.Configuration["IdentityServerUrl"];
+                opt.Audience = "resource_catalog";
+                opt.RequireHttpsMetadata = false;
+            });
 
            
 
@@ -31,6 +43,7 @@ namespace CatalogServices.Api
                 app.UseSwaggerUI();
             }
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
 

@@ -9,3 +9,4 @@ C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Deb
 C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\refint\CategoryService.Shared.dll
 C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\CategoryService.Shared.pdb
 C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\ref\CategoryService.Shared.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\Shared\Category.Shared\obj\Debug\net8.0\CategoryService.Shared.sourcelink.json

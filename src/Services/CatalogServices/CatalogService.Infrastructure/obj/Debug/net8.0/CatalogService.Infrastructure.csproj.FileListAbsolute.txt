@@ -17,3 +17,4 @@ C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\C
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Infrastructure\obj\Debug\net8.0\ref\CatalogService.Infrastructure.dll
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Infrastructure\bin\Debug\net8.0\CategoryService.Shared.dll
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Infrastructure\bin\Debug\net8.0\CategoryService.Shared.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Infrastructure\obj\Debug\net8.0\CatalogService.Infrastructure.sourcelink.json

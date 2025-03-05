@@ -15,3 +15,4 @@ C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\C
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\ref\CatalogService.Application.dll
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\bin\Debug\net8.0\CategoryService.Shared.dll
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\bin\Debug\net8.0\CategoryService.Shared.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Application\obj\Debug\net8.0\CatalogService.Application.sourcelink.json

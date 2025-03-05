@@ -10,3 +10,4 @@ C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\C
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\refint\CatalogService.Domain.dll
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\CatalogService.Domain.pdb
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\ref\CatalogService.Domain.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\CatalogServices\CatalogService.Domain\obj\Debug\net8.0\CatalogService.Domain.sourcelink.json
