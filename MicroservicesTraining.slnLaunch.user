@@ -11,6 +11,11 @@
         "Path": "src\\Services\\CatalogServices\\CatalogServices.Api\\CatalogServices.Api.csproj",
         "Action": "Start",
         "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\Services\\PhotoStockService\\PhotoStockService.Api\\PhotoStockService.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
       }
     ]
   }

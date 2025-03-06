@@ -1,2 +1,4 @@
 Services
 catalog api => 5011
+identity sever => 5001
+photostock => 5012
