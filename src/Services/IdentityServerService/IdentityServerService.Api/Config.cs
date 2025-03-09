@@ -9,7 +9,8 @@ public static class Config
     public static IEnumerable<ApiResource> ApiResources => new ApiResource[]
     {
         new ApiResource("resource_catalog"){Scopes={"catalog_fullpermisson"}},
-        new ApiResource("photo_stock_catalog"){Scopes={ "photo_stock_fullpermisson" }},
+        new ApiResource("resource_photo_stock"){Scopes={ "photo_stock_fullpermisson" }},
+        new ApiResource("resource_basket"){Scopes={ "basket_fullpermisson" }},
         new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
     };
 
@@ -27,6 +28,7 @@ public static class Config
         {
             new ApiScope("catalog_fullpermisson","Catalog API için full erişim"),
             new ApiScope("photo_stock_fullpermisson","Photo Stock API için full erişim"),
+            new ApiScope("basket_fullpermisson","basket API için full erişim"),
             new ApiScope(IdentityServerConstants.LocalApi.ScopeName),
         };
 
@@ -54,7 +56,7 @@ public static class Config
 
                 AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
 
-                AllowedScopes = { IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId,
+                AllowedScopes = { "basket_fullpermisson",IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId,
                     IdentityServerConstants.StandardScopes.Profile ,IdentityServerConstants.StandardScopes.OfflineAccess,IdentityServerConstants.LocalApi.ScopeName,"roles"},
                 AccessTokenLifetime = 1*60*60,
                 RefreshTokenExpiration = TokenExpiration.Absolute,

@@ -20,7 +20,7 @@ namespace PhotoStockService.Api
             builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
             {
                 opt.Authority = builder.Configuration["IdentityServerUrl"];
-                opt.Audience = "photo_stock_catalog";
+                opt.Audience = "resource_photo_stock";
                 opt.RequireHttpsMetadata = false;
             });
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

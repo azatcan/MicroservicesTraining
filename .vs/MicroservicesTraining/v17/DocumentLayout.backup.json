@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADB28349-1AD0-45BD-9460-BE99DBA2C831}|src\\Services\\PhotoStockService\\PhotoStockService.Api\\PhotoStockService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\photostockservice\\photostockservice.api\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB28349-1AD0-45BD-9460-BE99DBA2C831}|src\\Services\\PhotoStockService\\PhotoStockService.Api\\PhotoStockService.Api.csproj|solutionrelative:src\\services\\photostockservice\\photostockservice.api\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A81D3B5-6865-4ABE-BC90-E02435488DFD}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\basketservice\\basketservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A81D3B5-6865-4ABE-BC90-E02435488DFD}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADB28349-1AD0-45BD-9460-BE99DBA2C831}|src\\Services\\PhotoStockService\\PhotoStockService.Api\\PhotoStockService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\photostockservice\\photostockservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB28349-1AD0-45BD-9460-BE99DBA2C831}|src\\Services\\PhotoStockService\\PhotoStockService.Api\\PhotoStockService.Api.csproj|solutionrelative:src\\services\\photostockservice\\photostockservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3DD6B47-57BC-4680-B908-59F52A8B3F7E}|Shared\\Category.Shared\\CategoryService.Shared.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\shared\\category.shared\\services\\sharedidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD6B47-57BC-4680-B908-59F52A8B3F7E}|Shared\\Category.Shared\\CategoryService.Shared.csproj|solutionrelative:shared\\category.shared\\services\\sharedidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DEE978F-0323-4E60-9696-48CCB140E4D1}|src\\Services\\IdentityServerService\\IdentityServerService.Api\\IdentityServerService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\identityserverservice\\identityserverservice.api\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEE978F-0323-4E60-9696-48CCB140E4D1}|src\\Services\\IdentityServerService\\IdentityServerService.Api\\IdentityServerService.Api.csproj|solutionrelative:src\\services\\identityserverservice\\identityserverservice.api\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A81D3B5-6865-4ABE-BC90-E02435488DFD}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\basketservice\\basketservice.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A81D3B5-6865-4ABE-BC90-E02435488DFD}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\PhotoStockService\\PhotoStockService.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\Program.cs",
-              "RelativeToolTip": "src\\Services\\PhotoStockService\\PhotoStockService.Api\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAABLAAAAAAAAAA==",
+              "Title": "SharedIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Shared\\Category.Shared\\Services\\SharedIdentityService.cs",
+              "RelativeDocumentMoniker": "Shared\\Category.Shared\\Services\\SharedIdentityService.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Shared\\Category.Shared\\Services\\SharedIdentityService.cs",
+              "RelativeToolTip": "Shared\\Category.Shared\\Services\\SharedIdentityService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T07:31:33.01Z",
+              "WhenOpened": "2025-03-09T10:30:23.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
-              "RelativeDocumentMoniker": "src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
-              "RelativeToolTip": "src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Title": "BasketsController.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketsController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketsController.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketsController.cs",
+              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T07:08:36.742Z",
+              "WhenOpened": "2025-03-09T10:23:05.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PhotosController.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\Controllers\\PhotosController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\PhotoStockService\\PhotoStockService.Api\\Controllers\\PhotosController.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\Controllers\\PhotosController.cs",
-              "RelativeToolTip": "src\\Services\\PhotoStockService\\PhotoStockService.Api\\Controllers\\PhotosController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswCIAAAAbAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\BasketService\\BasketService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\BasketService\\BasketService.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T06:42:35.346Z",
+              "WhenOpened": "2025-03-09T10:21:18.212Z",
               "EditorCaption": ""
             }
           ]

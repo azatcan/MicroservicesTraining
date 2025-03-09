@@ -1,0 +1,16 @@
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\bin\Debug\net8.0\BasketService.Application.deps.json
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\bin\Debug\net8.0\BasketService.Application.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\bin\Debug\net8.0\BasketService.Application.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\bin\Debug\net8.0\CategoryService.Shared.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\bin\Debug\net8.0\CategoryService.Shared.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\obj\Debug\net8.0\BasketService.Application.csproj.AssemblyReference.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\obj\Debug\net8.0\BasketService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\obj\Debug\net8.0\BasketService.Application.AssemblyInfoInputs.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\obj\Debug\net8.0\BasketService.Application.AssemblyInfo.cs
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\obj\Debug\net8.0\BasketService.Application.csproj.CoreCompileInputs.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\obj\Debug\net8.0\BasketService.Application.sourcelink.json
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\obj\Debug\net8.0\BasketSe.26BC4D39.Up2Date
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\obj\Debug\net8.0\BasketService.Application.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\obj\Debug\net8.0\refint\BasketService.Application.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\obj\Debug\net8.0\BasketService.Application.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\BasketService\BasketService.Application\obj\Debug\net8.0\ref\BasketService.Application.dll
