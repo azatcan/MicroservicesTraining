@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "R+/tlwj5Si84TkIIwMvTdT/yUvCUN9uc9V3eOOFMYX4=",
+  "Source": "DiscountService.Api",
+  "BasePath": "_content/DiscountService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

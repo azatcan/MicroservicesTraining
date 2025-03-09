@@ -3,3 +3,4 @@ catalog api => 5011
 identity sever => 5001
 photostock => 5012
 basketstock => 5013
+discont => 5014

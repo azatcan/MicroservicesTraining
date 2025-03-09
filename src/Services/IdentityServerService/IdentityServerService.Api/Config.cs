@@ -11,6 +11,7 @@ public static class Config
         new ApiResource("resource_catalog"){Scopes={"catalog_fullpermisson"}},
         new ApiResource("resource_photo_stock"){Scopes={ "photo_stock_fullpermisson" }},
         new ApiResource("resource_basket"){Scopes={ "basket_fullpermisson" }},
+        new ApiResource("resource_discount"){Scopes={ "discount_fullpermisson" }},
         new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
     };
 
@@ -29,6 +30,7 @@ public static class Config
             new ApiScope("catalog_fullpermisson","Catalog API için full erişim"),
             new ApiScope("photo_stock_fullpermisson","Photo Stock API için full erişim"),
             new ApiScope("basket_fullpermisson","basket API için full erişim"),
+            new ApiScope("discount_fullpermisson","discount API için full erişim"),
             new ApiScope(IdentityServerConstants.LocalApi.ScopeName),
         };
 
@@ -56,7 +58,7 @@ public static class Config
 
                 AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
 
-                AllowedScopes = { "basket_fullpermisson",IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId,
+                AllowedScopes = { "discount_fullpermisson","basket_fullpermisson",IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId,
                     IdentityServerConstants.StandardScopes.Profile ,IdentityServerConstants.StandardScopes.OfflineAccess,IdentityServerConstants.LocalApi.ScopeName,"roles"},
                 AccessTokenLifetime = 1*60*60,
                 RefreshTokenExpiration = TokenExpiration.Absolute,

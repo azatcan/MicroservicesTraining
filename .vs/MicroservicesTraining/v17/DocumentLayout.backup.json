@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A81D3B5-6865-4ABE-BC90-E02435488DFD}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\basketservice\\basketservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A81D3B5-6865-4ABE-BC90-E02435488DFD}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\discountservice\\discountservice.api\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|solutionrelative:src\\services\\discountservice\\discountservice.api\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3DD6B47-57BC-4680-B908-59F52A8B3F7E}|Shared\\Category.Shared\\CategoryService.Shared.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\shared\\category.shared\\services\\sharedidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DD6B47-57BC-4680-B908-59F52A8B3F7E}|Shared\\Category.Shared\\CategoryService.Shared.csproj|solutionrelative:shared\\category.shared\\services\\sharedidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\discountservice\\discountservice.api\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|solutionrelative:src\\services\\discountservice\\discountservice.api\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A81D3B5-6865-4ABE-BC90-E02435488DFD}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\basketservice\\basketservice.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A81D3B5-6865-4ABE-BC90-E02435488DFD}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\discountservice\\discountservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|solutionrelative:src\\services\\discountservice\\discountservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\discountservice\\discountservice.api\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|solutionrelative:src\\services\\discountservice\\discountservice.api\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\discountservice\\discountservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|solutionrelative:src\\services\\discountservice\\discountservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +34,67 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SharedIdentityService.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Shared\\Category.Shared\\Services\\SharedIdentityService.cs",
-              "RelativeDocumentMoniker": "Shared\\Category.Shared\\Services\\SharedIdentityService.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Shared\\Category.Shared\\Services\\SharedIdentityService.cs",
-              "RelativeToolTip": "Shared\\Category.Shared\\Services\\SharedIdentityService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAABzAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Models\\Discount.cs",
+              "RelativeDocumentMoniker": "src\\Services\\DiscountService\\DiscountService.Api\\Models\\Discount.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Models\\Discount.cs",
+              "RelativeToolTip": "src\\Services\\DiscountService\\DiscountService.Api\\Models\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:30:23.579Z",
+              "WhenOpened": "2025-03-09T16:05:48.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BasketsController.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketsController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketsController.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketsController.cs",
-              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:23:05.221Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\DiscountService\\DiscountService.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\DiscountService\\DiscountService.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T15:54:30.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\BasketService\\BasketService.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\BasketService\\BasketService.Api\\Program.cs",
-              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\DiscountService\\DiscountService.Api\\Services\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Services\\DiscountService.cs",
+              "RelativeToolTip": "src\\Services\\DiscountService\\DiscountService.Api\\Services\\DiscountService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwD8AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:21:18.212Z",
+              "WhenOpened": "2025-03-09T15:31:33.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscountsController.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Controllers\\DiscountsController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\DiscountService\\DiscountService.Api\\Controllers\\DiscountsController.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Controllers\\DiscountsController.cs",
+              "RelativeToolTip": "src\\Services\\DiscountService\\DiscountService.Api\\Controllers\\DiscountsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:21:27.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\DiscountService\\DiscountService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\DiscountService\\DiscountService.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:57:29.424Z",
               "EditorCaption": ""
             }
           ]
