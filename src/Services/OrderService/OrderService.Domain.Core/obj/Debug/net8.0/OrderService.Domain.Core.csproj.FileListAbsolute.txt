@@ -1,0 +1,12 @@
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\bin\Debug\net8.0\OrderService.Domain.Core.deps.json
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\bin\Debug\net8.0\OrderService.Domain.Core.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\bin\Debug\net8.0\OrderService.Domain.Core.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\obj\Debug\net8.0\OrderService.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\obj\Debug\net8.0\OrderService.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\obj\Debug\net8.0\OrderService.Domain.Core.AssemblyInfo.cs
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\obj\Debug\net8.0\OrderService.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\obj\Debug\net8.0\OrderService.Domain.Core.sourcelink.json
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\obj\Debug\net8.0\OrderService.Domain.Core.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\obj\Debug\net8.0\refint\OrderService.Domain.Core.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\obj\Debug\net8.0\OrderService.Domain.Core.pdb
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Domain.Core\obj\Debug\net8.0\ref\OrderService.Domain.Core.dll

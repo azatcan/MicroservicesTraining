@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\discountservice\\discountservice.api\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|solutionrelative:src\\services\\discountservice\\discountservice.api\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\orderservice\\orderservice.application\\handlers\\getordersbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|solutionrelative:src\\services\\orderservice\\orderservice.application\\handlers\\getordersbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\discountservice\\discountservice.api\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|solutionrelative:src\\services\\discountservice\\discountservice.api\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB4EEECB-0797-4C60-ADA1-0DBB57A340FE}|src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\orderservice\\orderservice.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4EEECB-0797-4C60-ADA1-0DBB57A340FE}|src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj|solutionrelative:src\\services\\orderservice\\orderservice.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\discountservice\\discountservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|solutionrelative:src\\services\\discountservice\\discountservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\discountservice\\discountservice.api\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|solutionrelative:src\\services\\discountservice\\discountservice.api\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\discountservice\\discountservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE4B808-CB78-43BB-8189-4BAE5D93DCF5}|src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj|solutionrelative:src\\services\\discountservice\\discountservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\orderservice\\orderservice.application\\handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|solutionrelative:src\\services\\orderservice\\orderservice.application\\handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 328,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Discount.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Models\\Discount.cs",
-              "RelativeDocumentMoniker": "src\\Services\\DiscountService\\DiscountService.Api\\Models\\Discount.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Models\\Discount.cs",
-              "RelativeToolTip": "src\\Services\\DiscountService\\DiscountService.Api\\Models\\Discount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GetOrdersByUserIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Handlers\\GetOrdersByUserIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Application\\Handlers\\GetOrdersByUserIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Handlers\\GetOrdersByUserIdQueryHandler.cs",
+              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Application\\Handlers\\GetOrdersByUserIdQueryHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T16:05:48.597Z",
+              "WhenOpened": "2025-03-11T12:12:54.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Services\\DiscountService\\DiscountService.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\appsettings.json",
-              "RelativeToolTip": "src\\Services\\DiscountService\\DiscountService.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-09T15:54:30.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DiscountService.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Services\\DiscountService.cs",
-              "RelativeDocumentMoniker": "src\\Services\\DiscountService\\DiscountService.Api\\Services\\DiscountService.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Services\\DiscountService.cs",
-              "RelativeToolTip": "src\\Services\\DiscountService\\DiscountService.Api\\Services\\DiscountService.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAwwD8AAABSAAAAAAAAAA==",
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T15:31:33.311Z",
+              "WhenOpened": "2025-03-11T11:59:54.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DiscountsController.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Controllers\\DiscountsController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\DiscountService\\DiscountService.Api\\Controllers\\DiscountsController.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Controllers\\DiscountsController.cs",
-              "RelativeToolTip": "src\\Services\\DiscountService\\DiscountService.Api\\Controllers\\DiscountsController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAiwCYAAAAFAAAAAAAAAA==",
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T15:21:27.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\DiscountService\\DiscountService.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\DiscountService\\DiscountService.Api\\Program.cs",
-              "RelativeToolTip": "src\\Services\\DiscountService\\DiscountService.Api\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:57:29.424Z",
+              "WhenOpened": "2025-03-11T11:59:35.015Z",
               "EditorCaption": ""
             }
           ]

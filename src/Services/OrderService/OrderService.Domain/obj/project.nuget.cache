@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvHhPThIKDU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azatc\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\azatc\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\azatc\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\azatc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
