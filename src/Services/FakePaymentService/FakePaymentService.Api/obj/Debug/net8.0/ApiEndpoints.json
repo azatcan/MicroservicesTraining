@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "FakePaymentService.Api.Controllers.FakePaymentsController",
+    "Method": "ReceivePayment",
+    "RelativePath": "api/FakePayments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

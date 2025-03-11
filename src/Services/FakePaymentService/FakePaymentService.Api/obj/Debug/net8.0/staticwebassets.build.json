@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qGK2kx83OLc2RmYxuw+FtCGZEQeFvb5JUJ/JqnJVFiQ=",
+  "Source": "FakePaymentService.Api",
+  "BasePath": "_content/FakePaymentService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

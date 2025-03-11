@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\orderservice\\orderservice.application\\handlers\\getordersbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|solutionrelative:src\\services\\orderservice\\orderservice.application\\handlers\\getordersbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4EEECB-0797-4C60-ADA1-0DBB57A340FE}|src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\orderservice\\orderservice.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB4EEECB-0797-4C60-ADA1-0DBB57A340FE}|src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj|solutionrelative:src\\services\\orderservice\\orderservice.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\orderservice\\orderservice.application\\handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|solutionrelative:src\\services\\orderservice\\orderservice.application\\handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74729F9E-2FD8-4121-A06A-5DFF22354D3F}|src\\Services\\FakePaymentService\\FakePaymentService.Api\\FakePaymentService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\fakepaymentservice\\fakepaymentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74729F9E-2FD8-4121-A06A-5DFF22354D3F}|src\\Services\\FakePaymentService\\FakePaymentService.Api\\FakePaymentService.Api.csproj|solutionrelative:src\\services\\fakepaymentservice\\fakepaymentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetOrdersByUserIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Handlers\\GetOrdersByUserIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Application\\Handlers\\GetOrdersByUserIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Handlers\\GetOrdersByUserIdQueryHandler.cs",
-              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Application\\Handlers\\GetOrdersByUserIdQueryHandler.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\FakePaymentService\\FakePaymentService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\FakePaymentService\\FakePaymentService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\FakePaymentService\\FakePaymentService.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\FakePaymentService\\FakePaymentService.Api\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T12:12:54.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateOrderCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
-              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T11:59:54.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T11:59:35.015Z",
+              "WhenOpened": "2025-03-11T17:47:15.901Z",
               "EditorCaption": ""
             }
           ]

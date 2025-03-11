@@ -58,6 +58,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService.Application", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService.Domain.Core", "src\Services\OrderService\OrderService.Domain.Core\OrderService.Domain.Core.csproj", "{F35F1A5E-E5CB-417B-BA44-B4669E6BB732}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FakePaymentService", "FakePaymentService", "{45B57566-7E3B-4535-8079-82B3D18F3B9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakePaymentService.Api", "src\Services\FakePaymentService\FakePaymentService.Api\FakePaymentService.Api.csproj", "{74729F9E-2FD8-4121-A06A-5DFF22354D3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +132,10 @@ Global
 		{F35F1A5E-E5CB-417B-BA44-B4669E6BB732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F35F1A5E-E5CB-417B-BA44-B4669E6BB732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F35F1A5E-E5CB-417B-BA44-B4669E6BB732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74729F9E-2FD8-4121-A06A-5DFF22354D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74729F9E-2FD8-4121-A06A-5DFF22354D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74729F9E-2FD8-4121-A06A-5DFF22354D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74729F9E-2FD8-4121-A06A-5DFF22354D3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -156,5 +164,7 @@ Global
 		{5EA7DAC3-0AA6-4434-A067-73E4CE8463AF} = {53400DC5-048F-46D6-8531-CC4A29E8DF2F}
 		{2211655B-F8B1-4A79-BF26-D7C7D1A1A159} = {53400DC5-048F-46D6-8531-CC4A29E8DF2F}
 		{F35F1A5E-E5CB-417B-BA44-B4669E6BB732} = {53400DC5-048F-46D6-8531-CC4A29E8DF2F}
+		{45B57566-7E3B-4535-8079-82B3D18F3B9E} = {740343AE-DF94-49DA-A549-5F6A363F44DC}
+		{74729F9E-2FD8-4121-A06A-5DFF22354D3F} = {45B57566-7E3B-4535-8079-82B3D18F3B9E}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "FakePaymentService.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/FakePayments": {
+      "post": {
+        "tags": [
+          "FakePayments"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

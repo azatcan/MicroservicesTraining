@@ -8,7 +8,7 @@
         "DebugTarget": "SelfHost"
       },
       {
-        "Path": "src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
+        "Path": "src\\Services\\FakePaymentService\\FakePaymentService.Api\\FakePaymentService.Api.csproj",
         "Action": "Start"
       }
     ]
