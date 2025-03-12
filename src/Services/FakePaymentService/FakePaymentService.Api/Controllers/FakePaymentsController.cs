@@ -10,7 +10,7 @@ namespace FakePaymentService.Api.Controllers
     public class FakePaymentsController : CustomBaseController
     {
 
-        [HttpPost]
+        [HttpPost("ReceivePayment")]
         public IActionResult ReceivePayment()
         {
             return CreateActionResultInstance(Response<NoContent>.Success(200));

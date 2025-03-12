@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74729F9E-2FD8-4121-A06A-5DFF22354D3F}|src\\Services\\FakePaymentService\\FakePaymentService.Api\\FakePaymentService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\fakepaymentservice\\fakepaymentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74729F9E-2FD8-4121-A06A-5DFF22354D3F}|src\\Services\\FakePaymentService\\FakePaymentService.Api\\FakePaymentService.Api.csproj|solutionrelative:src\\services\\fakepaymentservice\\fakepaymentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DEE978F-0323-4E60-9696-48CCB140E4D1}|src\\Services\\IdentityServerService\\IdentityServerService.Api\\IdentityServerService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\identityserverservice\\identityserverservice.api\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEE978F-0323-4E60-9696-48CCB140E4D1}|src\\Services\\IdentityServerService\\IdentityServerService.Api\\IdentityServerService.Api.csproj|solutionrelative:src\\services\\identityserverservice\\identityserverservice.api\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF30E51-7933-48D6-B003-E824E048E29E}|Gateways\\Gateway.Api\\Gateway.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\gateways\\gateway.api\\configuration.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CF30E51-7933-48D6-B003-E824E048E29E}|Gateways\\Gateway.Api\\Gateway.Api.csproj|solutionrelative:gateways\\gateway.api\\configuration.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B826CA0-5F02-47D9-9330-963E6F154EA5}|Solution Items{0B826CA0-5F02-47D9-9330-963E6F154EA5}|C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0B826CA0-5F02-47D9-9330-963E6F154EA5}|Solution Items{0B826CA0-5F02-47D9-9330-963E6F154EA5}|solutionrelative:Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF30E51-7933-48D6-B003-E824E048E29E}|Gateways\\Gateway.Api\\Gateway.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\gateways\\gateway.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF30E51-7933-48D6-B003-E824E048E29E}|Gateways\\Gateway.Api\\Gateway.Api.csproj|solutionrelative:gateways\\gateway.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56416D3B-6A55-414D-A4DE-AF80CFD47877}|src\\Services\\CatalogServices\\CatalogServices.Api\\CatalogServices.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\catalogservices\\catalogservices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56416D3B-6A55-414D-A4DE-AF80CFD47877}|src\\Services\\CatalogServices\\CatalogServices.Api\\CatalogServices.Api.csproj|solutionrelative:src\\services\\catalogservices\\catalogservices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 328,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\FakePaymentService\\FakePaymentService.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\FakePaymentService\\FakePaymentService.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\FakePaymentService\\FakePaymentService.Api\\Program.cs",
-              "RelativeToolTip": "src\\Services\\FakePaymentService\\FakePaymentService.Api\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogServices.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\CatalogServices\\CatalogServices.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\CatalogServices\\CatalogServices.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\CatalogServices\\CatalogServices.Api\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T17:47:15.901Z",
+              "WhenOpened": "2025-03-12T11:54:53.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
+              "RelativeToolTip": "src\\Services\\IdentityServerService\\IdentityServerService.Api\\Config.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:50:26.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ports.txt",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Ports.txt",
+              "RelativeDocumentMoniker": "Ports.txt",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Ports.txt",
+              "RelativeToolTip": "Ports.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-12T11:34:58.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "configuration.development.json",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Gateways\\Gateway.Api\\configuration.development.json",
+              "RelativeDocumentMoniker": "Gateways\\Gateway.Api\\configuration.development.json",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Gateways\\Gateway.Api\\configuration.development.json*",
+              "RelativeToolTip": "Gateways\\Gateway.Api\\configuration.development.json*",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAqwG8BAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T09:18:04.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Gateways\\Gateway.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Gateways\\Gateway.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Gateways\\Gateway.Api\\Program.cs",
+              "RelativeToolTip": "Gateways\\Gateway.Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:00:54.39Z",
               "EditorCaption": ""
             }
           ]
