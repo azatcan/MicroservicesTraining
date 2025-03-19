@@ -20,20 +20,20 @@ namespace BasketService.Api.Controllers
             _identityService = identityService;
         }
 
-        [HttpGet("GetBasket")]
+        [HttpGet]
         public async Task<IActionResult> GetBasket()
         {
             return CreateActionResultInstance(await _basketService.GetBasket(_identityService.GetUserId));
         }
 
-        [HttpPost("Update")]
+        [HttpPost]
         public async Task<IActionResult> SaveOrUpdateBasket(BasketDto basketDto)
         {
             var response = await _basketService.SaveOrUpdate(basketDto);
             return CreateActionResultInstance(response);
         }
 
-        [HttpPost("DeleteBasket")]
+        [HttpDelete]
         public async Task<IActionResult> DeleteBasket()
         {
             return CreateActionResultInstance(await _basketService.Delete(_identityService.GetUserId));

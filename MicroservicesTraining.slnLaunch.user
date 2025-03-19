@@ -9,11 +9,38 @@
       },
       {
         "Path": "Gateways\\Gateway.Api\\Gateway.Api.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "http"
       },
       {
         "Path": "src\\Services\\CatalogServices\\CatalogServices.Api\\CatalogServices.Api.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\Services\\PhotoStockService\\PhotoStockService.Api\\PhotoStockService.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\Services\\DiscountService\\DiscountService.Api\\DiscountService.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "Clients\\MicroService.WebApp\\MicroService.WebApp.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
       }
     ]
   }

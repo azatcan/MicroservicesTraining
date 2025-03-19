@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TwYD0oulIG23MeEPcXT0JY6Kmv+BMm1VLuGMsmVXaWA=",
+  "Hash": "sHiiCSZiTV569Z6dkj2e1Ofqas1C4zelRLRRXHMjdWs=",
   "Source": "PhotoStockService.Api",
   "BasePath": "_content/PhotoStockService.Api",
   "Mode": "Default",
@@ -15,6 +15,214 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\wwwroot\\photos\\2a328a1b-4195-4246-9fc5-5eb25ac6ecf4.jpg",
+      "SourceId": "PhotoStockService.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\wwwroot\\",
+      "BasePath": "_content/PhotoStockService.Api",
+      "RelativePath": "photos/2a328a1b-4195-4246-9fc5-5eb25ac6ecf4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bfvfj2oee3",
+      "Integrity": "KXj9NY+dDwyf9KI1sAYm2LYSKQ+PvKxSHNwVWh2PwIE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\2a328a1b-4195-4246-9fc5-5eb25ac6ecf4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\wwwroot\\photos\\99169ebc-6c46-4eaf-9eb2-7fb00789069b.jpg",
+      "SourceId": "PhotoStockService.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\wwwroot\\",
+      "BasePath": "_content/PhotoStockService.Api",
+      "RelativePath": "photos/99169ebc-6c46-4eaf-9eb2-7fb00789069b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "29zywl9yen",
+      "Integrity": "CnWdcyyw0fLMdeis9cwTqiuVOrpC0y1pL52t1KLGktI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\99169ebc-6c46-4eaf-9eb2-7fb00789069b.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "photos/2a328a1b-4195-4246-9fc5-5eb25ac6ecf4.bfvfj2oee3.jpg",
+      "AssetFile": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\wwwroot\\photos\\2a328a1b-4195-4246-9fc5-5eb25ac6ecf4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2164624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KXj9NY+dDwyf9KI1sAYm2LYSKQ+PvKxSHNwVWh2PwIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 07:40:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfvfj2oee3"
+        },
+        {
+          "Name": "label",
+          "Value": "photos/2a328a1b-4195-4246-9fc5-5eb25ac6ecf4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KXj9NY+dDwyf9KI1sAYm2LYSKQ+PvKxSHNwVWh2PwIE="
+        }
+      ]
+    },
+    {
+      "Route": "photos/2a328a1b-4195-4246-9fc5-5eb25ac6ecf4.jpg",
+      "AssetFile": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\wwwroot\\photos\\2a328a1b-4195-4246-9fc5-5eb25ac6ecf4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2164624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KXj9NY+dDwyf9KI1sAYm2LYSKQ+PvKxSHNwVWh2PwIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 07:40:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KXj9NY+dDwyf9KI1sAYm2LYSKQ+PvKxSHNwVWh2PwIE="
+        }
+      ]
+    },
+    {
+      "Route": "photos/99169ebc-6c46-4eaf-9eb2-7fb00789069b.29zywl9yen.jpg",
+      "AssetFile": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\wwwroot\\photos\\99169ebc-6c46-4eaf-9eb2-7fb00789069b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CnWdcyyw0fLMdeis9cwTqiuVOrpC0y1pL52t1KLGktI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 07:31:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "29zywl9yen"
+        },
+        {
+          "Name": "label",
+          "Value": "photos/99169ebc-6c46-4eaf-9eb2-7fb00789069b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CnWdcyyw0fLMdeis9cwTqiuVOrpC0y1pL52t1KLGktI="
+        }
+      ]
+    },
+    {
+      "Route": "photos/99169ebc-6c46-4eaf-9eb2-7fb00789069b.jpg",
+      "AssetFile": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\PhotoStockService\\PhotoStockService.Api\\wwwroot\\photos\\99169ebc-6c46-4eaf-9eb2-7fb00789069b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CnWdcyyw0fLMdeis9cwTqiuVOrpC0y1pL52t1KLGktI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 07:31:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CnWdcyyw0fLMdeis9cwTqiuVOrpC0y1pL52t1KLGktI="
+        }
+      ]
+    }
+  ]
 }

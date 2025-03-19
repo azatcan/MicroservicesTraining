@@ -1,149 +1,22 @@
 {
   "Routes": [
-    {
-      "DownstreamPathTemplate": "/api/Category/GetAll",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5011
+    { 
+        "DownstreamPathTemplate": "/api/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "localhost",
+            "Port": 5011
+          }
+        ],
+        "UpstreamPathTemplate": "/services/catalog/{everything}",
+        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ],
+        "UpstreamScheme": "http",
+        "AuthenticationOptions": {
+          //"AuthenticationProviderKey": "GatewayAuthenticationScheme",
+          "AllowedScopes": [ "catalog_fullpermission" ]
         }
-      ],
-      "UpstreamPathTemplate": "/services/catalog/Category/GetAll",
-      "UpstreamHttpMethod": [ "GET" ],
-      "AuthenticationOptions": {
-        "AuthenticationProviderKey": "GatewayAuthenticationScheme",
-        "AllowedScopes": [ "catalog_fullpermisson" ]
-      }
-    },
-    {
-      "DownstreamPathTemplate": "/api/Category/GetById/{id}",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5011
-        }
-      ],
-      "UpstreamPathTemplate": "/services/catalog/Category/GetById/{id}",
-      "UpstreamHttpMethod": [ "GET" ],
-      "AuthenticationOptions": {
-        "AuthenticationProviderKey": "GatewayAuthenticationScheme",
-        "AllowedScopes": [ "catalog_fullpermisson" ]
-      }
-    },
-    {
-      "DownstreamPathTemplate": "/api/Category/Create",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5011
-        }
-      ],
-      "UpstreamPathTemplate": "/services/catalog/Category/Create",
-      "UpstreamHttpMethod": [ "POST" ],
-      "AuthenticationOptions": {
-        "AuthenticationProviderKey": "GatewayAuthenticationScheme",
-        "AllowedScopes": [ "catalog_fullpermisson" ]
-      }
-    },
-    {
-      "DownstreamPathTemplate": "/api/Course/GetAll",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5011
-        }
-      ],
-      "UpstreamPathTemplate": "/services/catalog/Course/GetAll",
-      "UpstreamHttpMethod": [ "GET" ],
-      "AuthenticationOptions": {
-        "AuthenticationProviderKey": "GatewayAuthenticationScheme",
-        "AllowedScopes": [ "catalog_fullpermisson" ]
-      }
-    },
-    {
-      "DownstreamPathTemplate": "/api/Course/GetById/{id}",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5011
-        }
-      ],
-      "UpstreamPathTemplate": "/services/catalog/Course/GetById/{id}",
-      "UpstreamHttpMethod": [ "GET" ],
-      "AuthenticationOptions": {
-        "AuthenticationProviderKey": "GatewayAuthenticationScheme",
-        "AllowedScopes": [ "catalog_fullpermisson" ]
-      }
-    },
-    {
-      "DownstreamPathTemplate": "/api/Course/GetAllByUserIdAsync/{userId}",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5011
-        }
-      ],
-      "UpstreamPathTemplate": "/services/catalog/Course/GetAllByUserIdAsync/{userId}",
-      "UpstreamHttpMethod": [ "GET" ],
-      "AuthenticationOptions": {
-        "AuthenticationProviderKey": "GatewayAuthenticationScheme",
-        "AllowedScopes": [ "catalog_fullpermisson" ]
-      }
-    },
-    {
-      "DownstreamPathTemplate": "/api/Course/Create",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5011
-        }
-      ],
-      "UpstreamPathTemplate": "/services/catalog/Course/Create",
-      "UpstreamHttpMethod": [ "POST" ],
-      "AuthenticationOptions": {
-        "AuthenticationProviderKey": "GatewayAuthenticationScheme",
-        "AllowedScopes": [ "catalog_fullpermisson" ]
-      }
-    },
-    {
-      "DownstreamPathTemplate": "/api/Course/Update/{id}",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5011
-        }
-      ],
-      "UpstreamPathTemplate": "/services/catalog/Course/Update/{id}",
-      "UpstreamHttpMethod": [ "POST" ],
-      "AuthenticationOptions": {
-        "AuthenticationProviderKey": "GatewayAuthenticationScheme",
-        "AllowedScopes": [ "catalog_fullpermisson" ]
-      }
-    },
-    {
-      "DownstreamPathTemplate": "/api/Course/Delete/{id}",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5011
-        }
-      ],
-      "UpstreamPathTemplate": "/services/catalog/Course/Delete/{id}",
-      "UpstreamHttpMethod": [ "POST" ],
-      "AuthenticationOptions": {
-        "AuthenticationProviderKey": "GatewayAuthenticationScheme",
-        "AllowedScopes": [ "catalog_fullpermisson" ]
-      }
-    },
+      },
     {
       "DownstreamPathTemplate": "/api/Baskets/GetBasket",
       "DownstreamScheme": "http",
@@ -337,7 +210,7 @@
       }
     },
     {
-      "DownstreamPathTemplate": "/api/Photos/Save",
+      "DownstreamPathTemplate": "/api/{everything}",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
@@ -345,27 +218,12 @@
           "Port": 5012
         }
       ],
-      "UpstreamPathTemplate": "/services/photos/Photos/Save",
-      "UpstreamHttpMethod": [ "POST" ],
+      "UpstreamPathTemplate": "/services/photostock/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ],
+      "UpstreamScheme": "http",
       "AuthenticationOptions": {
-        "AuthenticationProviderKey": "GatewayAuthenticationScheme",
-        "AllowedScopes": [ "photo_stock_fullpermisson" ]
-      }
-    },
-    {
-      "DownstreamPathTemplate": "/api/Photos/Delete",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5012
-        }
-      ],
-      "UpstreamPathTemplate": "/services/photos/Photos/Delete",
-      "UpstreamHttpMethod": [ "GET" ],
-      "AuthenticationOptions": {
-        "AuthenticationProviderKey": "GatewayAuthenticationScheme",
-        "AllowedScopes": [ "photo_stock_fullpermisson" ]
+        //"AuthenticationProviderKey": "GatewayAuthenticationScheme",
+        "AllowedScopes": [ "photo_stock_fullpermission" ]
       }
     }
 

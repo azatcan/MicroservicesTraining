@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Photos/Save": {
+    "/api/Photos": {
       "post": {
         "tags": [
           "Photos"
@@ -35,10 +35,8 @@
             "description": "OK"
           }
         }
-      }
-    },
-    "/api/Photos/Delete": {
-      "get": {
+      },
+      "delete": {
         "tags": [
           "Photos"
         ],

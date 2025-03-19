@@ -17,21 +17,21 @@ namespace CatalogServices.Api.Controllers
             _categoryService = categoryService;
         }
 
-        [HttpGet("GetAll")]
+        [HttpGet]
         public async Task<IActionResult> Get() 
         {
             var response = await _categoryService.GetAllAsync();
             return CreateActionResultInstance(response);
         }
 
-        [HttpGet("GetById/{id}")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> GetById(string id)
         {
             var response = await _categoryService.GetByIdAsync(id);
             return CreateActionResultInstance(response);
         }
 
-        [HttpPost("Create")]
+        [HttpPost]
         public async Task<IActionResult> Create(CategoryDto dto)
         {
             var response = await _categoryService.AddAsync(dto);

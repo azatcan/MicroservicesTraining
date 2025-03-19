@@ -21,7 +21,7 @@ namespace OrderService.Api.Controllers
             _sharedIdentityService = sharedIdentityService;
         }
 
-        [HttpGet("GetOrders")]
+        [HttpGet]
         public async Task<IActionResult> GetOrders()
         {
             var response = await _mediator.Send(new GetOrdersByUserIdQuery{ UserId = _sharedIdentityService.GetUserId});
@@ -30,7 +30,7 @@ namespace OrderService.Api.Controllers
 
         }
 
-        [HttpPost("SaveOrder")]
+        [HttpPost]
         public async Task<IActionResult> SaveOrder(CreateOrderCommand command)
         {
             var response = await _mediator.Send(command);

@@ -1,24 +1,8 @@
 [
   {
     "ContainingType": "PhotoStockService.Api.Controllers.PhotosController",
-    "Method": "PhotoDelete",
-    "RelativePath": "api/Photos/Delete",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "photoUrl",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "PhotoStockService.Api.Controllers.PhotosController",
     "Method": "PhotoSave",
-    "RelativePath": "api/Photos/Save",
+    "RelativePath": "api/Photos",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -26,6 +10,22 @@
       {
         "Name": "photo",
         "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhotoStockService.Api.Controllers.PhotosController",
+    "Method": "PhotoDelete",
+    "RelativePath": "api/Photos",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "photoUrl",
+        "Type": "System.String",
         "IsRequired": false
       }
     ],

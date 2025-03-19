@@ -20,21 +20,22 @@ namespace DiscountService.Api.Controllers
             _discountService = discountService;
         }
 
-        [HttpGet("GetAll")]
+        [HttpGet]
         public async Task<IActionResult> GetAll() 
         {
             var getAll = await _discountService.GetAll();
             return CreateActionResultInstance(getAll);
         }
 
-        [HttpGet("GetById/{id}")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
             var discount = await _discountService.GetById(id);
             return CreateActionResultInstance(discount);
         }
 
-        [HttpGet("GetByCode/{code}")]
+        [HttpGet]
+        [Route("/api/[controller]/[action]/{code}")]
         public async Task<IActionResult> GetByCode(string code)
         {
             var userId = _identityService.GetUserId;
@@ -42,21 +43,21 @@ namespace DiscountService.Api.Controllers
             return CreateActionResultInstance(discount);
         }
 
-        [HttpPost("Save")]
+        [HttpPost]
         public async Task<IActionResult> Save(Models.Discount discount)
         {
             var save = await _discountService.Save(discount);
             return CreateActionResultInstance(save);
         }
 
-        [HttpPost("Update")]
+        [HttpPut]
         public async Task<IActionResult> Update(Models.Discount discount)
         {
             var update = await _discountService.Update(discount);
             return CreateActionResultInstance(update);
         }
 
-        [HttpPost("Delete/{id}")]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
             var delete = await _discountService.Delete(id);

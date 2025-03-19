@@ -17,6 +17,27 @@ namespace CategoryService.Shared.Services
             _contextAccessor = contextAccessor;
         }
 
-        public string GetUserId => _contextAccessor.HttpContext?.User?.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+        //public string GetUserId => _contextAccessor.HttpContext?.User?.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+
+        public string? GetUserId
+        {
+            get
+            {
+                var user = _contextAccessor.HttpContext?.User;
+                if (user == null)
+                    return null;
+
+                var subClaim = user.FindFirst("sub")?.Value;
+                if (!string.IsNullOrEmpty(subClaim))
+                    return subClaim;
+
+                var nameIdClaim = user.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+                if (!string.IsNullOrEmpty(nameIdClaim))
+                    return nameIdClaim;
+
+                return null;
+            }
+        }
+
     }
 }

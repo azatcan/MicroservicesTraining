@@ -1,8 +1,18 @@
 [
   {
     "ContainingType": "CatalogServices.Api.Controllers.CategoryController",
+    "Method": "Get",
+    "RelativePath": "api/Category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CatalogServices.Api.Controllers.CategoryController",
     "Method": "Create",
-    "RelativePath": "api/Category/Create",
+    "RelativePath": "api/Category",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -17,51 +27,9 @@
   },
   {
     "ContainingType": "CatalogServices.Api.Controllers.CategoryController",
-    "Method": "Get",
-    "RelativePath": "api/Category/GetAll",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CatalogServices.Api.Controllers.CategoryController",
     "Method": "GetById",
-    "RelativePath": "api/Category/GetById/{id}",
+    "RelativePath": "api/Category/{id}",
     "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CatalogServices.Api.Controllers.CourseController",
-    "Method": "Create",
-    "RelativePath": "api/Course/Create",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "CatalogService.Application.Dtos.CourseCreateDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CatalogServices.Api.Controllers.CourseController",
-    "Method": "Delete",
-    "RelativePath": "api/Course/Delete/{id}",
-    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -76,7 +44,7 @@
   {
     "ContainingType": "CatalogServices.Api.Controllers.CourseController",
     "Method": "GetAllAsync",
-    "RelativePath": "api/Course/GetAll",
+    "RelativePath": "api/Course",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -85,15 +53,15 @@
   },
   {
     "ContainingType": "CatalogServices.Api.Controllers.CourseController",
-    "Method": "GetAllByUserIdAsync",
-    "RelativePath": "api/Course/GetAllByUserIdAsync/{userId}",
-    "HttpMethod": "GET",
+    "Method": "Create",
+    "RelativePath": "api/Course",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "userId",
-        "Type": "System.String",
+        "Name": "dto",
+        "Type": "CatalogService.Application.Dtos.CourseCreateDto",
         "IsRequired": true
       }
     ],
@@ -102,7 +70,7 @@
   {
     "ContainingType": "CatalogServices.Api.Controllers.CourseController",
     "Method": "GetById",
-    "RelativePath": "api/Course/GetById/{id}",
+    "RelativePath": "api/Course/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -118,8 +86,8 @@
   {
     "ContainingType": "CatalogServices.Api.Controllers.CourseController",
     "Method": "Update",
-    "RelativePath": "api/Course/Update/{id}",
-    "HttpMethod": "POST",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -130,6 +98,38 @@
       },
       {
         "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CatalogServices.Api.Controllers.CourseController",
+    "Method": "Delete",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CatalogServices.Api.Controllers.CourseController",
+    "Method": "GetAllByUserIdAsync",
+    "RelativePath": "api/Course/GetAllByUserId/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
         "Type": "System.String",
         "IsRequired": true
       }

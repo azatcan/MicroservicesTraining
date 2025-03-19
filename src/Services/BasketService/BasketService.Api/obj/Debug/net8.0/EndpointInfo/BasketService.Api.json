@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Baskets/GetBasket": {
+    "/api/Baskets": {
       "get": {
         "tags": [
           "Baskets"
@@ -15,9 +15,7 @@
             "description": "OK"
           }
         }
-      }
-    },
-    "/api/Baskets/Update": {
+      },
       "post": {
         "tags": [
           "Baskets"
@@ -46,10 +44,8 @@
             "description": "OK"
           }
         }
-      }
-    },
-    "/api/Baskets/DeleteBasket": {
-      "post": {
+      },
+      "delete": {
         "tags": [
           "Baskets"
         ],

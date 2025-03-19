@@ -3,6 +3,7 @@ using CategoryService.Shared.Dtos;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PhotoStockService.Api.Dtos;
+using System.Threading;
 
 namespace PhotoStockService.Api.Controllers
 {
@@ -10,18 +11,17 @@ namespace PhotoStockService.Api.Controllers
     [ApiController]
     public class PhotosController : CustomBaseController
     {
-        [HttpPost("Save")]
+        [HttpPost]
         public async Task<IActionResult> PhotoSave(IFormFile photo,CancellationToken token)
         {
-            if (photo == null || photo.Length>0) 
+            if (photo != null && photo.Length > 0) 
             {
-                var path = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot/photos",photo.FileName);
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/photos", photo.FileName);
 
-                using(var stream = new FileStream(path, FileMode.Create))
-                {
-                    await photo.CopyToAsync(stream, token);
-                }
-                var returnPath = "photos/"+photo.FileName;
+                using var stream = new FileStream(path, FileMode.Create);
+                await photo.CopyToAsync(stream, token);
+
+                var returnPath = photo.FileName;
 
                 PhotoDto photoDto = new() { Url = returnPath };
 
@@ -32,7 +32,7 @@ namespace PhotoStockService.Api.Controllers
         }
 
 
-        [HttpGet("Delete")]
+        [HttpDelete]
         public IActionResult PhotoDelete(string photoUrl)
         {
             var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/photos", photoUrl);

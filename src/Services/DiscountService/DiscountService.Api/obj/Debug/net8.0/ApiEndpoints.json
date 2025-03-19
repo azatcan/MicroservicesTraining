@@ -1,24 +1,8 @@
 [
   {
     "ContainingType": "DiscountService.Api.Controllers.DiscountsController",
-    "Method": "Delete",
-    "RelativePath": "api/Discounts/Delete/{id}",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "DiscountService.Api.Controllers.DiscountsController",
     "Method": "GetAll",
-    "RelativePath": "api/Discounts/GetAll",
+    "RelativePath": "api/Discounts",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -27,40 +11,8 @@
   },
   {
     "ContainingType": "DiscountService.Api.Controllers.DiscountsController",
-    "Method": "GetByCode",
-    "RelativePath": "api/Discounts/GetByCode/{code}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "code",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "DiscountService.Api.Controllers.DiscountsController",
-    "Method": "GetById",
-    "RelativePath": "api/Discounts/GetById/{id}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "DiscountService.Api.Controllers.DiscountsController",
     "Method": "Save",
-    "RelativePath": "api/Discounts/Save",
+    "RelativePath": "api/Discounts",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -76,14 +28,62 @@
   {
     "ContainingType": "DiscountService.Api.Controllers.DiscountsController",
     "Method": "Update",
-    "RelativePath": "api/Discounts/Update",
-    "HttpMethod": "POST",
+    "RelativePath": "api/Discounts",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "discount",
         "Type": "DiscountService.Api.Models.Discount",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiscountService.Api.Controllers.DiscountsController",
+    "Method": "GetById",
+    "RelativePath": "api/Discounts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiscountService.Api.Controllers.DiscountsController",
+    "Method": "Delete",
+    "RelativePath": "api/Discounts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiscountService.Api.Controllers.DiscountsController",
+    "Method": "GetByCode",
+    "RelativePath": "api/Discounts/GetByCode/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],

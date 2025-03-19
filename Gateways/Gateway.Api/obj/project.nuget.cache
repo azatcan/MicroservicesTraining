@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lnuu7ToUp20=",
+  "dgSpecHash": "TDHJGcD1qW4=",
   "success": true,
   "projectFilePath": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Gateways\\Gateway.Api\\Gateway.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\azatc\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\azatc\\.nuget\\packages\\identitymodel\\6.2.0\\identitymodel.6.2.0.nupkg.sha512",
     "C:\\Users\\azatc\\.nuget\\packages\\ipaddressrange\\6.1.0\\ipaddressrange.6.1.0.nupkg.sha512",
     "C:\\Users\\azatc\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.3\\microsoft.aspnetcore.authentication.jwtbearer.8.0.3.nupkg.sha512",
     "C:\\Users\\azatc\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.12\\microsoft.aspnetcore.jsonpatch.8.0.12.nupkg.sha512",
