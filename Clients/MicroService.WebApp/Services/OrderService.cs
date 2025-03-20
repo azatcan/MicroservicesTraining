@@ -50,12 +50,14 @@ namespace MicroService.WebApp.Services
             {
                 BuyerId = _sharedIdentityService.GetUserId,
                 Address = new AddressCreateInput { Province = checkoutInfoInput.Province, District = checkoutInfoInput.District, Street = checkoutInfoInput.Street, Line = checkoutInfoInput.Line, ZipCode = checkoutInfoInput.ZipCode },
+                Items = new List<OrderItemCreateInput>()
+
             };
 
             basket.BasketItems.ForEach(x =>
             {
                 var orderItem = new OrderItemCreateInput { ProductId = x.CourseId, Price = x.GetCurrentPrice, PictureUrl = "", ProductName = x.CourseName };
-                orderCreateInput.OrderItems.Add(orderItem);
+                orderCreateInput.Items.Add(orderItem);
             });
 
             var response = await _httpClient.PostAsJsonAsync<OrderCreateInput>("orders", orderCreateInput);
@@ -86,12 +88,13 @@ namespace MicroService.WebApp.Services
             {
                 BuyerId = _sharedIdentityService.GetUserId,
                 Address = new AddressCreateInput { Province = checkoutInfoInput.Province, District = checkoutInfoInput.District, Street = checkoutInfoInput.Street, Line = checkoutInfoInput.Line, ZipCode = checkoutInfoInput.ZipCode },
+                Items = new List<OrderItemCreateInput>()
             };
 
             basket.BasketItems.ForEach(x =>
             {
                 var orderItem = new OrderItemCreateInput { ProductId = x.CourseId, Price = x.GetCurrentPrice, PictureUrl = "", ProductName = x.CourseName };
-                orderCreateInput.OrderItems.Add(orderItem);
+                orderCreateInput.Items.Add(orderItem);
             });
 
             var paymentInfoInput = new PaymentInfoInput()

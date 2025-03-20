@@ -9,12 +9,12 @@ namespace MicroService.WebApp.Models.Orders
     {
         public OrderCreateInput()
         {
-            OrderItems = new List<OrderItemCreateInput>();
+            Items = new List<OrderItemCreateInput>();
         }
 
         public string BuyerId { get; set; }
 
-        public List<OrderItemCreateInput> OrderItems { get; set; }
+        public List<OrderItemCreateInput> Items { get; set; }
 
         public AddressCreateInput Address { get; set; }
     }

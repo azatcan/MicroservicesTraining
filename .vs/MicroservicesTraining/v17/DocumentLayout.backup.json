@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAC7E01-6FD4-49E6-9742-3888FEBC3AAA}|Clients\\MicroService.WebApp\\MicroService.WebApp.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\clients\\microservice.webapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAC7E01-6FD4-49E6-9742-3888FEBC3AAA}|Clients\\MicroService.WebApp\\MicroService.WebApp.csproj|solutionrelative:clients\\microservice.webapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4EEECB-0797-4C60-ADA1-0DBB57A340FE}|src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\orderservice\\orderservice.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4EEECB-0797-4C60-ADA1-0DBB57A340FE}|src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj|solutionrelative:src\\services\\orderservice\\orderservice.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\orderservice\\orderservice.application\\handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|solutionrelative:src\\services\\orderservice\\orderservice.application\\handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAC7E01-6FD4-49E6-9742-3888FEBC3AAA}|Clients\\MicroService.WebApp\\MicroService.WebApp.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\clients\\microservice.webapp\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAC7E01-6FD4-49E6-9742-3888FEBC3AAA}|Clients\\MicroService.WebApp\\MicroService.WebApp.csproj|solutionrelative:clients\\microservice.webapp\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74729F9E-2FD8-4121-A06A-5DFF22354D3F}|src\\Services\\FakePaymentService\\FakePaymentService.Api\\FakePaymentService.Api.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\fakepaymentservice\\fakepaymentservice.api\\controllers\\fakepaymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74729F9E-2FD8-4121-A06A-5DFF22354D3F}|src\\Services\\FakePaymentService\\FakePaymentService.Api\\FakePaymentService.Api.csproj|solutionrelative:src\\services\\fakepaymentservice\\fakepaymentservice.api\\controllers\\fakepaymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\src\\services\\orderservice\\orderservice.application\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211655B-F8B1-4A79-BF26-D7C7D1A1A159}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|solutionrelative:src\\services\\orderservice\\orderservice.application\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAC7E01-6FD4-49E6-9742-3888FEBC3AAA}|Clients\\MicroService.WebApp\\MicroService.WebApp.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\clients\\microservice.webapp\\models\\orders\\ordercreateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAC7E01-6FD4-49E6-9742-3888FEBC3AAA}|Clients\\MicroService.WebApp\\MicroService.WebApp.csproj|solutionrelative:clients\\microservice.webapp\\models\\orders\\ordercreateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Clients\\MicroService.WebApp\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Clients\\MicroService.WebApp\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Clients\\MicroService.WebApp\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Clients\\MicroService.WebApp\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:12:46.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:12:46.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Commands\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Application\\Commands\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Commands\\CreateOrderCommand.cs",
+              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Application\\Commands\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:10:45.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:10:12.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderCreateInput.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Clients\\MicroService.WebApp\\Models\\Orders\\OrderCreateInput.cs",
+              "RelativeDocumentMoniker": "Clients\\MicroService.WebApp\\Models\\Orders\\OrderCreateInput.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Clients\\MicroService.WebApp\\Models\\Orders\\OrderCreateInput.cs",
+              "RelativeToolTip": "Clients\\MicroService.WebApp\\Models\\Orders\\OrderCreateInput.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:09:57.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Clients\\MicroService.WebApp\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Clients\\MicroService.WebApp\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Clients\\MicroService.WebApp\\Services\\OrderService.cs",
+              "RelativeToolTip": "Clients\\MicroService.WebApp\\Services\\OrderService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAArwEcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:09:32.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FakePaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\FakePaymentService\\FakePaymentService.Api\\Controllers\\FakePaymentsController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\FakePaymentService\\FakePaymentService.Api\\Controllers\\FakePaymentsController.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\src\\Services\\FakePaymentService\\FakePaymentService.Api\\Controllers\\FakePaymentsController.cs",
+              "RelativeToolTip": "src\\Services\\FakePaymentService\\FakePaymentService.Api\\Controllers\\FakePaymentsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:12:45.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

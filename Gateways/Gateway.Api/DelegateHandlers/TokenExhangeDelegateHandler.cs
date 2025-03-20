@@ -48,7 +48,7 @@ namespace Gateway.Api.DelegateHandlers
                 GrantType = _configuration["TokenGrantType"],
                 SubjectToken = requestToken,
                 SubjectTokenType = "urn:ietf:params:oauth:token-type:access-token",
-                Scope = "openid discount_fullpermission payment_fullpermission"
+                Scope = "openid discount_fullpermission payment_fullpermisson"
             };
 
             var tokenResponse = await _httpClient.RequestTokenExchangeTokenAsync(tokenExchangeTokenRequest);

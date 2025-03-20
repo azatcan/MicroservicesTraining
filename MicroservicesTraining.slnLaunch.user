@@ -41,6 +41,10 @@
         "Path": "Clients\\MicroService.WebApp\\MicroService.WebApp.csproj",
         "Action": "Start",
         "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\Services\\FakePaymentService\\FakePaymentService.Api\\FakePaymentService.Api.csproj",
+        "Action": "Start"
       }
     ]
   }

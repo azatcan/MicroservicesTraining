@@ -9,11 +9,15 @@ namespace BasketService.Application.Dtos
     public class BasketDto
     {
         public string UserId { get; set; }
-        public string DiscountCode { get; set; }
-        public List<BasketItemDto> basketItemDtos { get; set; }
+
+        public string? DiscountCode { get; set; }
+
+        public int? DiscountRate { get; set; }
+        public List<BasketItemDto> basketItems { get; set; }
+
         public decimal TotalPrice
         {
-            get => basketItemDtos.Sum(x=> x.Price * x.Quantity);
+            get => basketItems.Sum(x => x.Price * x.Quantity);
         }
     }
 }

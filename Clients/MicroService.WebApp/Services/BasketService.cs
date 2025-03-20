@@ -1,5 +1,7 @@
 ﻿using CategoryService.Shared.Dtos;
+using CategoryService.Shared.Services;
 using MicroService.WebApp.Models.Baskets;
+using MicroService.WebApp.Models.Catalogs;
 using MicroService.WebApp.Services.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -14,11 +16,13 @@ namespace MicroService.WebApp.Services
     {
         private readonly HttpClient _httpClient;
         private readonly IDiscountService _discountService;
+        private readonly ISharedIdentityService _sharedIdentityService;
 
-        public BasketService(HttpClient httpClient, IDiscountService discountService)
+        public BasketService(HttpClient httpClient, IDiscountService discountService, ISharedIdentityService sharedIdentityService)
         {
             _httpClient = httpClient;
             _discountService = discountService;
+            _sharedIdentityService = sharedIdentityService;
         }
 
         public async Task AddBasketItem(BasketItemViewModel basketItemViewModel)
@@ -131,6 +135,7 @@ namespace MicroService.WebApp.Services
 
         public async Task<bool> SaveOrUpdate(BasketViewModel basketViewModel)
         {
+            basketViewModel.UserId = _sharedIdentityService.GetUserId;
             var response = await _httpClient.PostAsJsonAsync<BasketViewModel>("baskets", basketViewModel);
 
             return response.IsSuccessStatusCode;

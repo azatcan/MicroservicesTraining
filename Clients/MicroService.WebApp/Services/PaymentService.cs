@@ -20,7 +20,7 @@ namespace MicroService.WebApp.Services
 
         public async Task<bool> ReceivePayment(PaymentInfoInput paymentInfoInput)
         {
-            var response = await _httpClient.PostAsJsonAsync<PaymentInfoInput>("fakepayments", paymentInfoInput);
+            var response = await _httpClient.PostAsJsonAsync<PaymentInfoInput>("FakePayments", paymentInfoInput);
 
             return response.IsSuccessStatusCode;
         }

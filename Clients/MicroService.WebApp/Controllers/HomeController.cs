@@ -1,4 +1,5 @@
 using MicroService.WebApp.Models;
+using MicroService.WebApp.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -7,15 +8,22 @@ namespace MicroService.WebApp.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly ICatalogService _catalogService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, ICatalogService catalogService)
         {
             _logger = logger;
+            _catalogService = catalogService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            return View(await _catalogService.GetAllCourseAsync());
+        }
+
+        public async Task<IActionResult> Detail(string id)
+        {
+            return View(await _catalogService.GetByCourseId(id));
         }
 
         public IActionResult Privacy()

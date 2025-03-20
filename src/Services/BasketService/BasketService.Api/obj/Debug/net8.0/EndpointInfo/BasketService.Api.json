@@ -70,7 +70,12 @@
             "type": "string",
             "nullable": true
           },
-          "basketItemDtos": {
+          "discountRate": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "basketItems": {
             "type": "array",
             "items": {
               "$ref": "#/components/schemas/BasketItemDto"

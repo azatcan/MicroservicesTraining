@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AAAC7E01-6FD4-49E6-9742-3888FEBC3AAA}|Clients\\MicroService.WebApp\\MicroService.WebApp.csproj|c:\\users\\azatc\\source\\repos\\microservicestraining\\clients\\microservice.webapp\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAAC7E01-6FD4-49E6-9742-3888FEBC3AAA}|Clients\\MicroService.WebApp\\MicroService.WebApp.csproj|solutionrelative:clients\\microservice.webapp\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SignIn.cshtml",
-              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Clients\\MicroService.WebApp\\Views\\Auth\\SignIn.cshtml",
-              "RelativeDocumentMoniker": "Clients\\MicroService.WebApp\\Views\\Auth\\SignIn.cshtml",
-              "ToolTip": "C:\\Users\\azatc\\source\\repos\\MicroservicesTraining\\Clients\\MicroService.WebApp\\Views\\Auth\\SignIn.cshtml",
-              "RelativeToolTip": "Clients\\MicroService.WebApp\\Views\\Auth\\SignIn.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T07:47:16.903Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
