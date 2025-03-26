@@ -45,3 +45,14 @@ C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentServic
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\obj\Debug\net8.0\FakePaymentService.Api.pdb
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\obj\Debug\net8.0\FakePaymentService.Api.genruntimeconfig.cache
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\obj\Debug\net8.0\ref\FakePaymentService.Api.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\bin\Debug\net8.0\Automatonymous.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\bin\Debug\net8.0\GreenPipes.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\bin\Debug\net8.0\MassTransit.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\bin\Debug\net8.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\bin\Debug\net8.0\NewId.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\FakePaymentService\FakePaymentService.Api\bin\Debug\net8.0\RabbitMQ.Client.dll

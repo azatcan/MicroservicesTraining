@@ -133,7 +133,6 @@ C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\Orde
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\obj\Debug\net8.0\OrderService.Api.AssemblyInfoInputs.cache
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\obj\Debug\net8.0\OrderService.Api.AssemblyInfo.cs
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\obj\Debug\net8.0\OrderService.Api.csproj.CoreCompileInputs.cache
-C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\obj\Debug\net8.0\OrderService.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\obj\Debug\net8.0\OrderService.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\obj\Debug\net8.0\OrderService.Api.sourcelink.json
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\obj\Debug\net8.0\scopedcss\bundle\OrderService.Api.styles.css
@@ -154,3 +153,14 @@ C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\Orde
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\obj\Debug\net8.0\OrderService.Api.genruntimeconfig.cache
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\obj\Debug\net8.0\ref\OrderService.Api.dll
 C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\bin\Debug\net8.0\Automatonymous.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\bin\Debug\net8.0\GreenPipes.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\bin\Debug\net8.0\MassTransit.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\bin\Debug\net8.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\bin\Debug\net8.0\NewId.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\azatc\source\repos\MicroservicesTraining\src\Services\OrderService\OrderService.Api\obj\Debug\net8.0\OrderService.Api.MvcApplicationPartsAssemblyInfo.cs

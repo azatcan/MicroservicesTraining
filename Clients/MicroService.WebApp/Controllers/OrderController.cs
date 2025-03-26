@@ -33,7 +33,7 @@ namespace MicroService.WebApp.Controllers
             //1. yol senkron iletişim
             //  var orderStatus = await _orderService.CreateOrder(checkoutInfoInput);
             // 2.yol asenkron iletişim
-            var orderSuspend = await _orderService.CreateOrder(checkoutInfoInput);
+            var orderSuspend = await _orderService.SuspendOrder(checkoutInfoInput);
             if (!orderSuspend.IsSuccessful)
             {
                 var basket = await _basketService.Get();

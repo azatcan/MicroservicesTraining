@@ -6,7 +6,13 @@
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "paymentDto",
+        "Type": "FakePaymentService.Api.Models.PaymentDto",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]
