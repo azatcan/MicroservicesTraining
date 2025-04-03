@@ -1,0 +1,65 @@
+version: "3.8"
+services:
+  catalogdb:
+    image: mongo
+  basketdb:
+    image: redis
+  discountdb:
+    image: postgres
+  identitydb:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+  orderdb:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+  rabbitmq:
+    image: rabbitmq:4.0.7-management
+  catalog.api:
+    image: catalog_api_image
+    build:
+      context: .
+      dockerfile: src/Services/CatalogServices/CatalogServices.Api/Dockerfile
+  identityserver.api:
+    image: identityserver_api_image
+    build:
+      context: .
+      dockerfile: src/Services/IdentityServerService/IdentityServerService.Api/Dockerfile
+  basket.api:
+    image: basket_api_image
+    build:
+      context: .
+      dockerfile: src/Services/BasketService/BasketService.Api/Dockerfile
+  photostock.api:
+    image: photostock_api_image
+    build:
+      context: .
+      dockerfile: src/Services/PhotoStockService/PhotoStockService.Api/Dockerfile
+  discount.api:
+    image: discount_api_image
+    build:
+      context: .
+      dockerfile: src/Services/DiscountService/DiscountService.Api/Dockerfile
+  fakepayment.api:
+    image: fakepayment_api_image
+    build:
+      context: C:/Users/azatc/source/repos/MicroservicesTraining
+      dockerfile: src/Services/FakePaymentService/FakePaymentService.Api/Dockerfile
+  order.api:
+    image: order_api_image
+    build:
+      context: .
+      dockerfile: src/Services/OrderService/OrderService.Api/Dockerfile
+  gateway.api:
+    image: gateway_api_image
+    build:
+      context: .
+      dockerfile: Gateways/Gateway.Api/Dockerfile
+  aspnetcoremvc.web:
+    image: aspnetcoremvc.web_image
+    build:
+      context: .
+      dockerfile: Clients/MicroService.WebApp/Dockerfile
+
+volumes:
+  catalogdb_volume:
+  discount_volume:
+  identitydb_volume:
+  orderdb_volume:
